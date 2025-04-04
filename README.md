@@ -1,10 +1,10 @@
-⚡ Real-Time Messaging System (MERN + WebSockets)
+# ⚡ Real-Time Messaging System (MERN + WebSockets)
 
 
 
 A high-performance real-time chat application built using the MERN stack and WebSockets, optimized for instant, low-latency communication—critical for high-frequency trading (HFT) and financial applications.
 
-🚀 Features:
+## 🚀 Features:
 
 ✅ Ultra-Low-Latency Communication – WebSockets-based real-time messaging with minimal delay, a key requirement in HFT systems.
 
@@ -25,18 +25,18 @@ A high-performance real-time chat application built using the MERN stack and Web
 
 
 
-🔹 Tech Stack:
+## Tech Stack:
 
-Backend: Node.js, Express.js, WebSockets (Socket.io), JWT
-
-
-Frontend: React.js with WebSocket integration
+### Backend: Node.js, Express.js, WebSockets (Socket.io), JWT
 
 
-Database: MongoDB (for message persistence, similar to storing trade logs in financial systems)
+### Frontend: React.js with WebSocket integration
+
+
+### Database: MongoDB (for message persistence, similar to storing trade logs in financial systems)
 
 
 
 This project highlights key real-time, low-latency system design principles that are crucial in HFT environments. While built as a chat app, the architecture is adaptable to market data streaming and high-speed trade execution. 🚀
 
-Link: https://chatapp-fdps.onrender.com
+## Link: https://chatapp-fdps.onrender.com
