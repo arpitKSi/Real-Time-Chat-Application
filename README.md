@@ -39,4 +39,3 @@ A high-performance real-time chat application built using the MERN stack and Web
 
 This project highlights key real-time, low-latency system design principles that are crucial in HFT environments. While built as a chat app, the architecture is adaptable to market data streaming and high-speed trade execution. 🚀
 
-## Link: https://chatapp-fdps.onrender.com
