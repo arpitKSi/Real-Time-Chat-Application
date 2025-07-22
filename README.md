@@ -205,13 +205,6 @@ POST /api/messages/:receiverId
 
 This project is [ISC Licensed](LICENSE).
 
----
-
-## 🙏 Acknowledgements
-
-Inspired by the challenges of high-frequency, low-latency system design in trading and financial technology.
-
----
 
 ## 📬 Contact
 
