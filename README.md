@@ -203,7 +203,7 @@ POST /api/messages/:receiverId
 
 ## 📝 License
 
-This project is [ISC Licensed](LICENSE).
+This project is [ISC Licensed].
 
 
 ## 📬 Contact
